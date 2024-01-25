@@ -5,7 +5,7 @@
 	<ImplicitUsings>enable</ImplicitUsings>
 	<Nullable>enable</Nullable>
 	<AssemblyName>Skarnes20.Math.Modulus</AssemblyName>
-    <RootNamespace>Kjetil.Math.Modulus</RootNamespace>
+    <RootNamespace>Skarnes20.Math.Modulus</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

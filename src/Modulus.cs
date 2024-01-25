@@ -1,4 +1,4 @@
-﻿namespace Kjetil.Math.Modulus;
+﻿namespace Skarnes20.Math.Modulus;
 
 public class Modulus
 {
